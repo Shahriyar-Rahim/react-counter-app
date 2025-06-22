@@ -50,7 +50,7 @@ To get a local copy of the project up and running on your machine, follow these 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Shahriyar-Rahim/react-counter-app.git]
+    git clone https://github.com/Shahriyar-Rahim/react-counter-app.git
     cd react-counter-app
     ```
 2.  **Install dependencies:**
@@ -96,5 +96,5 @@ This project is open source and available under the MIT License. See the `LICENS
 ## Contact
 
 Shahriyar Rahim - [Your Email Address (Optional, e.g., yourname@example.com)]
-Project Link: [https://github.com/Shahriyar-Rahim/react-counter-app]
+Project Link: https://github.com/Shahriyar-Rahim/react-counter-app
 ````
