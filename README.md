@@ -89,10 +89,6 @@ Contributions are always welcome! If you have suggestions for improvements or ne
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## License
-
-This project is open source and available under the MIT License. See the `LICENSE` file in the repository for full details.
-
 ## Contact
 
 Md. Shahriyar Rahim
