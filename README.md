@@ -95,6 +95,6 @@ This project is open source and available under the MIT License. See the `LICENS
 
 ## Contact
 
-Shahriyar Rahim - [Your Email Address (Optional, e.g., yourname@example.com)]
+Md. Shahriyar Rahim
 Project Link: https://github.com/Shahriyar-Rahim/react-counter-app
 ````
