@@ -92,6 +92,6 @@ Contributions are always welcome! If you have suggestions for improvements or ne
 ## Contact
 
 Md. Shahriyar Rahim
-\n
+
 Project Link: https://github.com/Shahriyar-Rahim/react-counter-app
 ````
